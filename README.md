@@ -103,22 +103,24 @@ Las damos un nombre y fecha, posteriormente se podrá crear.
 
 ### 2.2.2 Tareas del 1er Release en el Sprint Backlog 
 - Añadir las tareas al **Product Backlog** y moverlas posteriormente al **Sprint Backlog**.  
-  **IMAGEN AQUÍ: CAPTURA DE SPRINT BACKLOG**
+![image](https://github.com/user-attachments/assets/3d57edd0-847a-4844-b207-51547f620daa)
+![image](https://github.com/user-attachments/assets/9dc932fd-89a3-4179-954f-4f496b7d5098)
+
 
 ### 2.2.3 Tareas del 1er Release en Progreso 
 - Mover las tareas tipo **TASK** a diferentes columnas en el tablero:
   - **In Progress**
   - **Review**
   - **Done**  
-  **IMAGEN AQUÍ: CAPTURA DE COLUMNAS IN PROGRESS, REVIEW Y DONE**
+![image](https://github.com/user-attachments/assets/566b4773-0d77-4a36-92d3-aedbb3e466cd)
 
 ### 2.2.4 Cierre del 1er Release 
 - Mover todas las tareas de **Release 1** a la columna **Closed**, indicando que han sido completadas.  
-  **IMAGEN AQUÍ: CAPTURA DEL ESTADO CLOSED**
+![image](https://github.com/user-attachments/assets/20ffce73-6d3e-498a-b1a3-2fc93ff197f3)
 
 ### 2.2.5 Comienzo de la 2da Release 
 - Crear nuevas tareas y organizarlas para iniciar la planificación del **Release 2**.  
-  **IMAGEN AQUÍ: CAPTURA DEL COMIENZO DEL RELEASE 2**
+![image](https://github.com/user-attachments/assets/9ebeb253-8352-4630-aff3-5ac7f427f0c1)
 
 ### 2.2.6 Tareas del 2do Release en Progreso y Filtradas por Algún Tópico 
 - Organizar las tareas de **Release 2** en columnas:  
@@ -126,7 +128,8 @@ Las damos un nombre y fecha, posteriormente se podrá crear.
   - **Review**
   - **Done**
 - Filtrar las tareas por un tópico específico, como `setup`.  
-  **IMAGEN AQUÍ: CAPTURA DE TAREAS FILTRADAS POR TOPIC**
+![image](https://github.com/user-attachments/assets/763e37f2-9dff-4ddc-ace1-6de54bb079ed)
+![image](https://github.com/user-attachments/assets/961fbccb-0d45-40b9-85cc-3f09015df597)
 
 ---
 
