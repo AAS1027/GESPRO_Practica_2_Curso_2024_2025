@@ -136,9 +136,9 @@ Las damos un nombre y fecha, posteriormente se podrá crear.
 ## 3. Comunicación en Tareas
 
 ###  Imagen de Conversación en dos Tareas 
-- Ejemplo 1: Conversación en la tarea **Manage the app from an Android device**.  
-  **IMAGEN AQUÍ: CAPTURA DE CONVERSACIÓN**
-- Ejemplo 2: Conversación en la tarea **Manage accounts**.  
-  **IMAGEN AQUÍ: CAPTURA DE CONVERSACIÓN**
+- Ejemplo 1: Conversación en la tarea **Manage the app from an iPhone**.  
+![image](https://github.com/user-attachments/assets/199b8ed2-3416-4e2b-958c-2ed6a1fd68f4)
+- Ejemplo 2: Conversación en la tarea **Manage the app from a tablet**.  
+![image](https://github.com/user-attachments/assets/db39ef58-90db-4e02-83f6-937a4ad241d0)
 
 
